@@ -22,5 +22,5 @@ def greet(who_to_greet):
 r = requests.get("https://www.google.com")
 print(r.status_code)
 
-name = input("Your Name?")
-print("Hello,", name)
+#name = input("Your Name?")
+#print("Hello,", name)
